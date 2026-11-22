@@ -1,1 +1,1 @@
-# lab-agile-planning
+# user story
